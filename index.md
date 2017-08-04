@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/RLpaper/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Maryam Hahsemzadeh. I am an M.S. graduate in Artificial Intelligence. My interests are applications of mathematical modelling and computer science in cognitive science and neuroscience.
 
 ### Markdown
 
